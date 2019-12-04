@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace workspace
 {
@@ -6,7 +6,8 @@ namespace workspace
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string str = "Amr";
+            Console.WriteLine("Hello " + str);
         }
     }
 }
